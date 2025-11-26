@@ -1,0 +1,101 @@
+question,intent,response
+hello,greeting,Hello! Welcome to Nairobi Book Haven! How can I assist you with books today?
+hi,greeting,Hi there! Welcome to Nairobi Book Haven. What kind of books are you looking for?
+good morning,greeting,Good morning! Thank you for visiting Nairobi Book Haven. How can I help you find your next great read?
+hey,greeting,"Hey! Welcome to Nairobi Book Haven. Looking for fiction, education, or other books?"
+hi there,greeting,Hello! Great to have you at Nairobi Book Haven. What books interest you today?
+greetings,greeting,"Greetings! Welcome to Nairobi Book Haven, your favorite book destination."
+good afternoon,greeting,Good afternoon! Nairobi Book Haven at your service. How can I help you?
+hello?,greeting,Hello! How can I assist you today?
+hi there?,greeting,Hi! What book can I help you find?
+anyone here?,greeting,"Yes, I'm here! How may I assist you?"
+what books do you have,genre,"We have Fiction, Non-Fiction, Education, Children's books, Business, and African Literature."
+do you have fiction books,genre,"Yes! We have a wide selection of fiction including novels, short stories, and literary fiction."
+do you have educational books,genre,"We have educational books for all levels - primary, secondary, and university textbooks."
+what kind of novels do you sell,genre,"We carry novels from various genres including African literature, international fiction, and contemporary works."
+are there business books available,genre,"Yes, we have business books covering entrepreneurship, management, finance, and professional development."
+do you sell children's books,genre,"We have a wonderful children's section with picture books, storybooks, and educational materials for all ages."
+do you stock textbooks,genre,"Absolutely! We stock textbooks for primary, secondary, and university curriculum requirements."
+do you have african literature books,genre,"Yes, we have an extensive African literature collection featuring authors from across the continent."
+do you carry non fiction books,genre,"Yes, we have non-fiction including biographies, history, self-help, and academic works."
+are there academic books available,genre,We carry academic books for university students and researchers across various disciplines.
+do you have story books for kids,genre,We have storybooks for all ages - from children's picture books to adult fiction novels.
+do you have books by kenyan authors,genre,"Yes, we feature many Kenyan authors in our African literature and fiction sections."
+do you sell poetry books,genre,"Yes, we have poetry collections from African and international poets."
+are there religious books available,genre,"We carry religious books including Bibles, spiritual guides, and inspirational literature."
+do you have science books,genre,We have science textbooks and popular science books for all education levels.
+are history books available,genre,"Yes, we stock history books covering African history, world history, and historical biographies."
+genres?,genre,"We have fiction, non-fiction, business, children's books, and more."
+any novels?,genre,"Yes, we have a large selection of novels."
+you have textbooks?,genre,"Yes, we stock primary, secondary, and university textbooks."
+are you open today,hours,"Yes! We're open Weekdays 9:00 AM to 5:00 PM, Saturday 9:00 AM to 4:00 PM. Closed Sundays."
+what time do you open,hours,We open at 9:00 AM from Monday to Saturday.
+when do you close,hours,We close at 5:00 PM on weekdays and 4:00 PM on Saturdays. Closed on Sundays.
+what are your opening hours,hours,"Our hours: Weekdays 9AM-5PM, Saturday 9AM-4PM, Closed Sundays."
+are you open on sundays,hours,"No, we're closed on Sundays. We're open Weekdays 9AM-5PM and Saturdays 9AM-4PM."
+are you closed today,hours,"We're open today! Hours are Weekdays 9AM-5PM, Saturday 9AM-4PM. Closed Sundays."
+what are your business hours,hours,"Our business hours are Monday-Friday 9AM-5PM, Saturday 9AM-4PM, closed Sundays."
+are you open on weekends,hours,We're open Saturdays 9AM-4PM and closed on Sundays.
+are you open on public holidays,hours,"On public holidays, we're open 10AM-2PM unless otherwise announced."
+hours?,hours,Our hours are 9AM - 5PM weekdays and 9AM-4PM Saturdays.
+what time open?,hours,We open at 9AM.
+are you open?,hours,We're open unless it's Sunday.
+where are you located,location,"We're located at Muindi Mbingu Street, Mapala House, 1st Floor, Room 12, Nairobi."
+what is your address,location,"Our address is Muindi Mbingu Street, Mapala House, 1st Floor, Room 12, Nairobi."
+where is your bookstore located,location,"Find us at Mapala House, Muindi Mbingu Street, 1st Floor, Room 12. Directly opposite Jevanjee Gardens."
+how do i get to your store,location,"We're at Muindi Mbingu Street, Mapala House, 1st Floor, Room 12. 2 minutes walk from Khoja Stage (Fig Tree), next to Nafuu Pharmacy."
+are you in nairobi cbd,location,"We're in Nairobi CBD at Muindi Mbingu Street, Mapala House, 1st Floor, Room 12. Opposite Jevanjee Gardens."
+where exactly is your store,location,"Our store is at Mapala House, Muindi Mbingu Street, 1st Floor, Room 12 in Nairobi CBD."
+whats your exact location,location,"We're at Mapala House, 1st Floor, Room 12 on Muindi Mbingu Street, directly opposite Jevanjee Gardens."
+location?,location,"We are in Nairobi CBD, Mapala House, Muindi Mbingu Street."
+where are you guys?,location,We are opposite Jevanjee Gardens at Mapala House.
+shop address?,location,"Mapala House, 1st Floor, Room 12, Muindi Mbingu Street."
+do you deliver books,delivery,Yes! We offer same-day rider delivery in Nairobi and nationwide courier delivery.
+what delivery options do you have,delivery,We provide Nairobi rider delivery (KES 150-300) and nationwide courier delivery (KES 250-350).
+can you ship books to my location,delivery,"Yes, we deliver nationwide! Nairobi rider delivery or courier service available."
+do you offer delivery service,delivery,Absolutely! Same-day Nairobi delivery and 1-2 day nationwide courier delivery.
+do you do home delivery,delivery,"Yes, we provide home delivery within Nairobi Metropolitan area."
+how much does delivery cost,delivery,"Nairobi rider delivery costs KES 150-300, nationwide courier delivery costs KES 250-350."
+how long will delivery take,delivery,Nairobi deliveries take a few hours; nationwide deliveries take 1-2 days.
+which courier do you use,delivery,We use G4S and Fargo for nationwide delivery services.
+what are the delivery charges,delivery,"Delivery charges: Nairobi KES 150-300, nationwide KES 250-350."
+do you offer same day delivery,delivery,Yes! Orders before 3 PM get same-day delivery in Nairobi.
+what is the delivery time,delivery,Nairobi: same day if ordered before 3 PM. Nationwide: 1-2 days.
+is there free delivery,delivery,"Free delivery available for bulk orders over KES 5,000 within Nairobi."
+which areas do you deliver to,delivery,We deliver throughout Nairobi Metropolitan and nationwide via courier.
+do you deliver internationally,delivery,We currently only deliver within Kenya through our nationwide courier services.
+how do i pay for delivery,delivery,We accept M-Pesa for delivery payments and cash on delivery within Nairobi.
+is there a minimum order for delivery,delivery,"No minimum order for delivery, but delivery charges apply for orders under KES 5,000."
+delivery?,delivery,"Yes, we deliver within Nairobi and countrywide."
+deliver to Kisumu?,delivery,"Yes! We ship to Kisumu via G4S or Fargo, 1 or 2 days."
+do you deliver upcountry?,delivery,"Yes, we deliver to all towns in Kenya through courier."
+can you ship to Mombasa?,delivery,"Yes, we can send to Mombasa. Delivery normally takes 1 or 2 days"
+what payment methods do you accept,payment,We accept MPESA and cash for all purchases.
+how can i pay for books,payment,You can pay using MPESA or cash at our store.
+do you accept mpesa,payment,"Yes, we accept MPESA payments for both in-store and delivery orders."
+can i pay with cash,payment,We accept cash payments at our store location.
+what are my payment options,payment,We accept MPESA and cash as payment methods.
+do you take mpesa payments,payment,"Yes, we accept MPESA. You can pay via MPESA for delivery or in-store purchases."
+do you accept credit cards,payment,We currently only accept MPESA and cash payments.
+can i pay with debit card,payment,"We accept MPESA and cash, but not debit cards at the moment."
+do you accept bank transfers,payment,We accept MPESA and cash payments for quicker processing.
+can i pay online,payment,"For online orders, we accept MPESA as the payment method."
+payment?,payment,We accept MPESA and cash.
+mpesa?,payment,"Yes, MPESA is available."
+cash accepted?,payment,"Yes, you can pay cash on delivery in Nairobi."
+what is your phone number,contact,You can call us at 0712 345 678 or 0701 234 567 during business hours.
+how can i contact you,contact,"Call us at 0712 345 678, email nairobibookhaven@gmail.com, or visit our store."
+do you have email,contact,Yes! Email us at nairobibookhaven@gmail.com for any inquiries.
+whats your phone contact,contact,Our phone numbers are 0712 345 678 and 0701 234 567. We're available during store hours.
+can i call your store,contact,Absolutely! Call us at 0712 345 678 from 9AM-5PM weekdays or 9AM-4PM Saturdays.
+contact information,contact,Phone: 0712 345 678 / 0701 234 567 | Email: nairobibookhaven@gmail.com | Visit: Muindi Mbingu Street
+contact?,contact,You can reach us at 0712 345 678.
+phone number?,contact,Our number is 0712 345 678.
+how do I call you?,contact,Call us anytime at 0712 345 678.
+thank you,thanks,You're welcome! Happy reading and visit us at Muindi Mbingu Street!
+thanks,thanks,My pleasure! We're at Mapala House if you'd like to visit in person.
+thank you so much,thanks,You're very welcome! Enjoy your books and see you soon!
+i appreciate your help,thanks,Glad I could assist! Don't hesitate to reach out if you need more book recommendations.
+bye,goodbye,Thank you for visiting Nairobi Book Haven! See you at Muindi Mbingu Street!
+goodbye,goodbye,"Thanks for chatting! Come visit us at Mapala House, Muindi Mbingu Street."
+see you later,goodbye,"Looking forward to your visit! We're at Mapala House, 1st Floor, Room 12."

@@ -1,0 +1,157 @@
+Title,Author,Genre,Price
+The Alchemist,Paulo Coelho,Novels,900
+Pride and Prejudice,Jane Austen,Romance,1000
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1200
+Born a Crime,Trevor Noah,Biography,1200
+Think Like a Monk,Jay Shetty,Self-Help,950
+Weep Not Child, Ngugi Wa Thiong'o,African Literature,1100
+Petals of Blood,Ngugi Wa Thiong'o,Kenyan Authors,1150
+Carcase for Hounds,Meja Mwangi,Kenyan Authors,1050
+A Grain of Wheat,Ngugi Wa Thiong'o,Historical Fiction,1100
+Decolonising the Mind,Ngugi Wa Thiong'o,Philosophy,1000
+To Kill a Mockingbird,Harper Lee,Novels,950
+1984,George Orwell,Science Fiction,1000
+The Great Gatsby,F. Scott Fitzgerald,Novels,900
+The Catcher in the Rye,J.D. Salinger,Novels,850
+Half of a Yellow Sun,Chimamanda Ngozi Adichie,African Literature,1300
+The Road,Cormac McCarthy,Novels,1000
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,1400
+Educated,Tara Westover,Memoir,1300
+Becoming,Michelle Obama,Memoir,1350
+The Power of Now,Eckhart Tolle,Self-Help,1100
+The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,1000
+Rich Dad Poor Dad,Robert Kiyosaki,Business,1200
+The Intelligent Investor,Benjamin Graham,Business,1300
+Zero to One,Peter Thiel,Business,1300
+Good to Great,Jim Collins,Business,1250
+Thinking in Bets,Annie Duke,Self-Help,1100
+Mana's Search for Meaning,Viktor E. Frankl,Philosophy,1000
+The Four Agreements,Don Miguel Ruiz,Self-Help,1050
+Atomic Habits,James Clear,Self-Help,1200
+Outliers,Malcolm Gladwell,Psychology,1200
+Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,Psychology,1150
+Grit,Angela Duckworth,Psychology,1200
+Start with Why,Simon Sinek,Self-Help,1100
+Mindset,Carol S. Dweck,Self-Help,1050
+Digital Minimalism,Cal Newport,Self-Help,1150
+Deep Work,Cal Newport,Self-Help,1200
+The Monk Who Sold His Ferrari,Robin Sharma,Self-Help,950
+The Hobbit,J.R.R. Tolkien,Fantasy,1100
+The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,1500
+The Chronicles of Narnia (The Lion  the Witch and the Wardrobe),C.S. Lewis,Fantasy,1200
+Dune,Frank Herbert,Science Fiction,1400
+Endera's Game,Orson Scott Card,Science Fiction,1300
+Neuromancer,William Gibson,Science Fiction,1250
+The Martian,Andy Weir,Science Fiction,1350
+Brave New World,Aldous Huxley,Science Fiction,1200
+Fahrenheit 451,Ray Bradbury,Science Fiction,1100
+The Da Vinci Code,Dan Brown,Mystery,1300
+Angels & Demons,Dan Brown,Mystery,1300
+Gone Girl,Gillian Flynn,Mystery,1200
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,1300
+Big Little Lies,Liane Moriarty,Romance,1250
+The Notebook,Nicholas Sparks,Romance,1200
+Me Before You,Jojo Moyes,Romance,1100
+Outlander,Diana Gabaldon,Romance,1400
+The Time Traveler's Wife,Audrey Niffenegger,Romance,1300
+The Fault in Our Stars,John Green,Romance,1200
+A Brief History of Time,Stephen Hawking,Science,1500
+The Gene,Matt Ridley,Science,1400
+Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,1450
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,Science,1300
+Cosmos,Carl Sagan,Science,1350
+Travel: A Novel,Peter Mayle,Travel,1100
+Eat Pray Love,Elizabeth Gilbert, Travel,1200
+The Beach,Alex Garland,Travel,1150
+Wild,Cheryl Strayed,Travel,1250
+Into Thin Air,Jon Krakauer,Adventure,1200
+Crime and Punishment,Fyodor Dostoevsky,Novels,1250
+War and Peace,Leo Tolstoy,Novels,1400
+Les Miserables,Victor Hugo,Novels,1350
+Murder on the Orient Express,Agatha Christie,Mystery,1200
+The Shining,Stephen King,Horror,1300
+Dracula,Bram Stoker,Horror,1250
+It,Stephen King,Horror,1400
+Frankenstein,Mary Shelley,Horror,1200
+The Haunting of Hill House,Shirley Jackson,Horror,1300
+Lean Startup,Eric Ries,Business,1100
+The Hard Thing About Hard Things,Ben Horowitz,Business,1350
+The E-Myth Revisited,Michael E. Gerber,Business,1200
+Principles,Ray Dalio,Business,1400
+Mathematics Made Simple,Thomas Fuller,Mathematics,700
+Algebra for Beginners,Ivor Horton,Mathematics,750
+Calculus,Michael Spivak,Mathematics,900
+Physics for Beginners,Paul Peter Urone,Physics,850
+Fundamentals of Physics,David Halliday,Physics,900
+Organic Chemistry,Bruce H. Mahan,Chemistry,950
+Inorganic Chemistry,Cathy D. Padias,Chemistry,900
+Biology: Life on Earth,Marion Reece,Biology,900
+Molecular Biology of the Cell,Bruce Alberts,Biology,1000
+Economics in One Lesson,Henry Hazlitt,Economics,850
+The Wealth of Nations,Adam Smith,Economics,1500
+Poems of Kwame Dawes,Kwame Dawes,Poetry,900
+Selected Poems of Wole Soyinka,Wole Soyinka,Poetry,950
+African Short Stories,Chinua Achebe,African Literature,1000
+Things Fall Apart,Chinua Achebe,African Literature,1100
+My Life in Kenya,Meja Mwangi,Kenyan Authors,1050
+African Folktales,Various Authors,African Literature,1000
+Children's Encyclopedia,Various Authors,Children,700
+Adventures of Tintin,Herge,Children,800
+Percy Jackson and the Olympians,Rick Riordan,Young Adult,900
+Diary of a Wimpy Kid,Jeff Kinney,Children,850
+The Lion and the Jewel,Wole Soyinka,African Authors,950
+Bible Stories,Various Authors,Religious,750
+The Quran,Various Authors,Religious,800
+History of Africa,John Reader,History,1200
+African Civilizations,John Iliffe,History,1150
+Computer Programming Basics,John Zelle,Computer Science,950
+Python Crash Course,Eric Matthes,Computer Science,1000
+English Grammar in Use,Raymond Murphy,English,900
+KCSE Mathematics Past Papers,Jane Doe,Revision,600
+Physics Form 2,John Smith,Revision,800
+Chemistry Form 3,Mary Njeri,Revision,850
+Biology Form 1,Peter Mwangi,Revision,750
+Business Studies Form 4,James Otieno,Revision,900
+Advanced Python Programming,Mark Lutz,Computer Science,1200
+African Poetry Anthology,Various Authors,Poetry,1000
+Kenyan Short Stories,Various Authors,Kenyan Authors,950
+African Folktales for Kids,Various Authors,Children,700
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,1100
+The Little Prince,Antoine de Saint-Exupery,Children,800
+The Chronicles of Prydain,Lloyd Alexander,Fantasy,1100
+Mathematics Made Easy,Richard Parsons,Mathematics,800
+Physics for Schools,David Sang,Physics,900
+Chemistry Concepts,Laura Johnson,Chemistry,950
+Biology Simplified,Anna Bell,Biology,900
+African History Overview,James Ngugi,History,1100
+Religion and Society,Peter Karanja,Religious,1000
+The African Novel,Chinua Achebe,African Literature,1200
+Fictional Worlds,Jane Doe,Novels,1000
+Romantic Tales,Emily Bronte,Romance,1100
+Fantasy Adventures,George Martin,Fantasy,1300
+Sci-Fi Wonders,Isaac Asimov,Science Fiction,1200
+Mystery Nights,Agatha Christie,Mystery,1150
+Historical Tales,Kenya Writers,Historical Fiction,1100
+Memoirs of Life,Various Authors,Memoir,1050
+Self-Help Guide,James Clear,Self-Help,1100
+Business Leadership,John Maxwell,Business,1300
+Economics Explained,Adam Smith,Economics,1200
+Science Facts,Neil deGrasse Tyson,Science,1400
+Travel Diaries,Elizabeth Gilbert,Travel,1200
+Philosophy Basics,Aristotle,Philosophy,1000
+Psychology Insights,Daniel Kahneman,Psychology,1200
+Religious Teachings,Various Authors,Religious,950
+English Literature Anthology,Jane Austen,English,900
+Geography Essentials,John Reader,Geography,950
+Revision Guide,Jane Doe,Revision,700
+Course Companion,Peter Mwangi,Revision,750
+Advanced Mathematics,Michael Spivak,Mathematics,900
+Physics Concepts,David Halliday,Physics,950
+Chemistry Essentials,Bruce Mahan,Chemistry,900
+Biology Basics,Marion Reece,Biology,950
+Computer Science Fundamentals,Eric Matthes,Computer Science,1000
+Children's Story Collection,Various Authors,Children,700
+Teen Adventures,Rick Riordan,Young Adult,900
+African Poetry Collection,Wole Soyinka,Poetry,950
+Kenyan Novels,Ngugi Wa Thiong'o,Kenyan Authors,1100
+African Anthology,Chinua Achebe,African Literature,1200
